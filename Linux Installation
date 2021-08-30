@@ -1,0 +1,23 @@
+Dear all,
+You could download Kodi Player and Play
+
+Open Terminal.
+Run below code
+sudo apt-get install kodi
+click yes.
+
+Let it completed the setup
+or
+You can check out the Kodi wiki site
+https://kodi.wiki/view/Add-on:PVR_IPTV_Simple_Client
+
+Next step before you run the application.
+Please follow the setup first
+
+At the terminal
+type
+sudo apt-get update
+sudo apt-get install kodi-pvr-iptvsimple (only work for the list inside this repo that ive provided)
+
+below is the guide and all source of iptv addon list
+https://kodi.wiki/view/Ubuntu_PVR_add-ons
